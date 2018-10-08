@@ -49,4 +49,6 @@ main.js
 main.js.map
 
 .idea
+.vscode
+.github
 npm-debug.log.*
